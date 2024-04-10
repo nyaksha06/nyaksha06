@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @nyaksha06
-- 👀 I’m interested in  NLP , LLMs and Web3
-- 🌱 I’m currently learning  ML, NLP and pytorch
 - 📫 How to reach me ...  nyaksha06@gmail.com
 
 
